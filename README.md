@@ -1,10 +1,11 @@
-# SDU-beamer-template
-A SDU-beamer-template based on [THU-beamer-template](https://github.com/FangWHao/THU-beamer-template)
+## 使用声明与注意事项
 
-Please contact [me](2861126078@qq.com) if you have any questions about the templates or if you have questions about copyright infringement.
+### 项目背景与目的
 
-This template is open source under the GPL-3.0 license
+GPNU Beamer 项目在开发过程中，汲取了包括但不限于 PKU 在内的多个开源项目的精华，并融合了广东技术师范大学特有的学术风格与要求。本模版旨在服务于校园内外的教学、学术研讨等活动，仅为非商业性质的学习交流目的而设计，严禁任何形式的商业推广或营利行为。
 
-![6vSHK.png](https://i.imgs.ovh/2023/12/19/6vSHK.png)![6vbqd.png](https://i.imgs.ovh/2023/12/19/6vbqd.png)
-![6vuS2.png](https://i.imgs.ovh/2023/12/19/6vuS2.png)![6v7Yj.png](https://i.imgs.ovh/2023/12/19/6v7Yj.png)
-![6vQ2I.png](https://i.imgs.ovh/2023/12/19/6vQ2I.png)![6vRhV.png](https://i.imgs.ovh/2023/12/19/6vRhV.png)
+### 使用限制与授权要求
+
+**郑重声明：**
+本模版中包含的所有与广东技术师范大学形象标识、视觉系统、校徽、校名、标准色彩、专用字体以及其他具有辨识度的视觉元素，均受国家知识产权法律法规和学校内部规定的严格保护。校外的机构及个人，在使用此类元素前，必须先行向广东技术师范大学相关部门提出正式申请，并在取得明确书面授权后才可合法使用。未获授权的商业用途、侵权行为或者其他违反规定的使用方式，将依法追责。
+
