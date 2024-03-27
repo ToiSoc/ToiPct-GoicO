@@ -80,14 +80,14 @@
 %       \themecolor should only be called from the preamble.
 \newcommand{\themecolor}[1]{
 	\ifstrequal{#1}{main}{%
-        \setbeamercolor{footline}{fg=white}
+    \setbeamercolor{footline}{fg=white}
 		\setbeamercolor{normal text}{fg=white,bg=maincolor}
 		\setbeamercolor{structure}{fg=white}
 		\renewcommand{\@logo}{whitelogo}
 		\setbeamercolor{block title}{fg=maincolor,bg=sintefgrey}
 		\setbeamercolor{block body}{fg=darkgray,bg=sintefgrey}
 	}{%
-        \setbeamercolor{footline}{fg=darkgray}
+    \setbeamercolor{footline}{fg=darkgray}
 		\setbeamercolor{normal text}{fg=darkgray,bg=white}
 		\setbeamercolor{structure}{fg=maincolor}
 		\renewcommand{\@logo}{logo}

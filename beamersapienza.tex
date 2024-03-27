@@ -216,18 +216,21 @@ The ``official'' colours of colour blocks are: \testcolor{sinteflilla},
 
 \begin{frame}[fragile]{Adding images}
 \begin{columns}
-\begin{column}{0.7\textwidth}
+      \begin{column}{0.7\textwidth}
 Adding images works like in normal \LaTeX:
 \begin{block}{Code for Adding Images}
 \begin{verbatim}
+\...
 \usepackage{graphicx}
-\includegraphics[width=\textwidth]{assets/gpnu-logo}
+\includegraphics[width=\textwidth]
+{assets/gpnu-logo}
 \end{verbatim}
 \end{block}
-\end{column}
-\begin{column}{0.3\textwidth}
-\includegraphics[width=\textwidth]{assets/gpnu-logo.pdf}
-\end{column}
+      \end{column}
+
+      \begin{column}{0.3\textwidth}
+            \includegraphics[width=\textwidth]{assets/gpnu-logo.pdf}
+      \end{column}
 \end{columns}
 \end{frame}
 
