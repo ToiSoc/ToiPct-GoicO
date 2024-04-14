@@ -70,8 +70,8 @@
 }
 \footlinecolor{} % Default: no footline
 
-\pgfdeclareimage[width=0.09\paperwidth]{logo}{assets/gpnu-logo}
-\pgfdeclareimage[width=0.09\paperwidth]{whitelogo}{assets/gpnu-logo-L}
+\pgfdeclareimage[width=0.07\paperwidth]{logo}{assets/gpnu-logo}
+\pgfdeclareimage[width=0.07\paperwidth]{whitelogo}{assets/gpnu-logo-L}
 \newcommand{\@logo}{logo}
 
 % Set colours
@@ -130,12 +130,12 @@
 }
 
 % Put the logo in each slide's top left area
-\setbeamertemplate{headline}{\hspace{0.06\textwidth}\pgfuseimage{\@logo}}
+\setbeamertemplate{headline}{\hspace{0.05\textwidth}\pgfuseimage{\@logo}}
 
 % Define frame title and subtitle layout
 \setbeamertemplate{frametitle}{%
   \vspace*{-3.5ex}
-  \begin{beamercolorbox}[leftskip=2cm]{frametitle}%
+  \begin{beamercolorbox}[leftskip=1.2cm]{frametitle}%
     \usebeamerfont{frametitle}\insertframetitle\\
     \usebeamerfont{framesubtitle}\insertframesubtitle
   \end{beamercolorbox}
@@ -253,7 +253,7 @@
   }
   \setbeamertemplate{frametitle}{% Same as normal, but with right skip
     \vspace*{-3.5ex}
-    \begin{beamercolorbox}[leftskip=2cm,rightskip=0.4\textwidth]{frametitle}%
+    \begin{beamercolorbox}[leftskip=1.2cm,rightskip=0.4\textwidth]{frametitle}%
       \usebeamerfont{frametitle}\insertframetitle\\
       \usebeamerfont{framesubtitle}\insertframesubtitle
     \end{beamercolorbox}
