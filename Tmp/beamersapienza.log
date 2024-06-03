@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.18)  14 APR 2024 20:55
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.18)  3 JUN 2024 21:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1367,33 +1367,54 @@ File: assets/gpnu-logo.pdf Graphic file (type pdf)
  [21
 
 ]
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/b/n' will be
+(Font)              scaled to size 7.0pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
+(Font)              scaled to size 14.4pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 328.
+LaTeX Font Info:    Font shape `TU/Caladea(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 328.
+File: assets/gpnu-logo.pdf Graphic file (type pdf)
+<use assets/gpnu-logo.pdf>
+ [22
+
+]
 \openout4 = `beamersapienza.vrb'.
 
  (Tmp/beamersapienza.vrb)
 File: assets/gpnu-logo.pdf Graphic file (type pdf)
 <use assets/gpnu-logo.pdf>
- [22
+ [23
 
 ] (Tmp/beamersapienza.toc)
 File: assets/gpnu-logo-L.pdf Graphic file (type pdf)
 <use assets/gpnu-logo-L.pdf>
- [23
+ [24
 
 ]
 File: assets/gpnu-logo.pdf Graphic file (type pdf)
 <use assets/gpnu-logo.pdf>
- [24
+ [25
 
 ]
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 348.
+(Font)              scaled to size 24.88pt on input line 370.
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/sl' in size <14.4> not available
-(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 348.
+(Font)              Font shape `TU/Carlito(0)/m/it' tried instead on input line 370.
 LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
-(Font)              scaled to size 14.4pt on input line 348.
+(Font)              scaled to size 14.4pt on input line 370.
 File: assets/gpnu-logo-L.pdf Graphic file (type pdf)
 <use assets/gpnu-logo-L.pdf>
- [25
+ [26
 
 ]
 \tf@nav=\write6
@@ -1410,12 +1431,12 @@ Package rerunfilecheck Info: File `beamersapienza.out' has not changed.
 (rerunfilecheck)             Checksum: CFB8EA9DD86BD89D9A0C7F7371C78793;299.
  ) 
 Here is how much of TeX's memory you used:
- 29651 strings out of 476683
- 656880 string characters out of 5807574
+ 29686 strings out of 476683
+ 657951 string characters out of 5807574
  1857012 words of memory out of 5000000
- 49208 multiletter control sequences out of 15000+600000
- 520925 words of font info for 130 fonts, out of 8000000 for 9000
+ 49231 multiletter control sequences out of 15000+600000
+ 523604 words of font info for 151 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,15n,133p,460b,1280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,133p,460b,1280s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Tmp/beamersapienza.pdf (25 pages).
+Output written on Tmp/beamersapienza.pdf (26 pages).
